@@ -1,4 +1,3 @@
 root: ./
 
 redirect:
-    space1: readme.md
